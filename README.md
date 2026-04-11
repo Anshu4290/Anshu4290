@@ -1,16 +1,78 @@
-## Hi there 👋
+<h1 align="center">Hey, I'm Anshu Diwakar 👋</h1>
 
-<!--
-**Anshu4290/Anshu4290** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>Data Analyst</strong> &nbsp;·&nbsp; 3+ years in Marketing &nbsp;·&nbsp; Based in Delhi, India
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  I turn raw data into decisions. With a background in marketing and hands-on skills in SQL, Python, and Tableau,
+  I specialise in the kind of analysis that actually changes what a business does next.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://www.linkedin.com/in/anshu-diwakar-09bb8a179/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:anshudiwakar2017@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🧠 What I bring to the table
+
+I spent 3+ years in marketing doing what most people don't realise is data analysis — A/B testing campaigns, tracking ROI across channels, building performance dashboards, and translating numbers into strategy. I've since formalised those skills with a Masters Data Program in Data Analysis and hands-on projects you can explore below.
+
+**The result:** I can ask the right business question *and* write the query to answer it.
+
+---
+
+## 🛠️ Tools & Skills
+
+| Category | Tools |
+|---|---|
+| **Query & Database** | MySQL · Snowflake · SQL (JOINs, CTEs, Window Functions) |
+| **Analysis & Programming** | Python · Pandas · NumPy · Jupyter Notebook · R |
+| **Visualisation** | Tableau · Excel (PivotTables, Power Query) · Seaborn · Matplotlib |
+| **Domain Knowledge** | Marketing Analytics · Campaign Performance · Customer Segmentation · Funnel Analysis |
+
+---
+
+## 📂 Projects
+
+> 🚧 Projects coming soon — currently building my first case studies. Check back in 2 weeks!
+
+---
+
+## 🎓 Certifications
+
+- 🏅 **Masters Data Program — Data Analysis**
+- 🐍 **Python for Data Analysis**
+- 🗄️ **MySQL for Data Analytics**
+- 📊 **Tableau Desktop Specialist**
+- 📋 **Excel for Data Analysis**
+- 📐 **R for Statistical Analysis**
+
+---
+
+## 📌 About me
+
+- 💼 Open to **Data Analyst**, **Marketing Analyst**, and **Business Analyst** roles
+- 📍 Delhi, India — open to remote and hybrid
+- 🔍 Particularly interested in roles where **marketing intuition meets data rigour**
+- 💬 Ask me about: SQL optimisation, building dashboards people actually use, or marketing attribution models
+- 📫 Reach me at: anshudiwakar2017@gmail.com
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anshu4290&show_icons=true&theme=default&hide_border=true&title_color=0A66C2&icon_color=0A66C2" height="150" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshu4290&layout=compact&hide_border=true&title_color=0A66C2" height="150" />
+</p>
+
+<p align="center">
+  <sub>💡 Always learning · Currently building: Marketing Campaign Analysis using Python + SQL</sub>
+</p>
