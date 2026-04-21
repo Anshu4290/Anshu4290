@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Anshu Diwakar 👋</h1>
 
 <p align="center">
-  <strong>Data Analyst</strong> &nbsp;·&nbsp; 3+ years in Marketing &nbsp;·&nbsp; Based in Delhi, India
+  <strong> Analyst</strong> &nbsp;·&nbsp; 3+ years in Marketing &nbsp;·&nbsp; Based in Delhi, India
 </p>
 
 <p align="center">
