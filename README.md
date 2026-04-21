@@ -42,29 +42,54 @@ I spent 3+ years in marketing doing what most people don't realise is data analy
 
 ## 📂 Projects
 
+## 📂 Projects
+
 ### 📊 Flipkart Product & Review Analysis
 
-🔗 [View Live Dashboard](https://public.tableau.com/app/profile/anshu.diwakar/viz/Flipkart_Analysis_Dashboard/FlipkartProductReviewAnalysisAnshuDiwakar)
+🔗 [Live Dashboard](https://public.tableau.com/app/profile/anshu.diwakar/viz/Flipkart_Analysis_Dashboard/FlipkartProductReviewAnalysisAnshuDiwakar)
 🔗 [GitHub Repository](https://github.com/Anshu4290/Flipkart-Product-Review-Analysis)
 
-A Tableau dashboard built to analyze Flipkart product data and uncover insights related to pricing, customer ratings, and brand performance.
+A Tableau dashboard analyzing ~190K+ Flipkart product records to uncover pricing trends, customer behavior, and brand performance.
 
 **What I did:**
 
-* Cleaned and structured raw product dataset (~190K+ records)
-* Created price bands to analyze rating trends
+* Cleaned and structured raw dataset
+* Created price bands for better segmentation
 * Built KPI summary (Total Reviews, Avg Price, Avg Rating, Total Products)
-* Designed interactive dashboard with multiple views
-* Analyzed brand performance and customer engagement patterns
+* Designed interactive dashboard
 
 **Key Insights:**
 
-* Lower price bands drive higher review volume
-* Higher price bands tend to have better ratings
-* A few brands dominate in terms of product volume
+* Budget products drive highest engagement
+* Higher price ≠ always higher rating
+* Few brands dominate product volume
 
-**Tools Used:** Tableau · Excel · Data Cleaning
-**Skills Demonstrated:** Data Analysis · Data Visualization · Business Insights
+**Tools:** Tableau · Excel
+**Skills:** Data Visualization · Business Analysis · Insight Generation
+
+---
+
+### 📈 Marketing Campaign Analysis (Python + SQL)
+
+🔗 [GitHub Repository](https://github.com/Anshu4290/marketing-campaign-analysis)
+
+An end-to-end analysis of marketing campaign performance using Python and SQL to evaluate ROI, customer response, and channel effectiveness.
+
+**What I did:**
+
+* Analyzed campaign performance data
+* Used SQL queries to extract insights
+* Built Python notebook for data cleaning & visualization
+* Evaluated conversion trends and customer segmentation
+
+**Key Insights:**
+
+* Identified high-performing campaigns
+* Highlighted cost inefficiencies
+* Suggested improvements for targeting strategy
+
+**Tools:** Python · SQL · Pandas · Jupyter Notebook
+**Skills:** Data Analysis · Marketing Analytics · SQL Querying
 
 ---
 
