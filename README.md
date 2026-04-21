@@ -42,7 +42,29 @@ I spent 3+ years in marketing doing what most people don't realise is data analy
 
 ## 📂 Projects
 
-> 🚧 Projects coming soon — currently building my first case studies. Check back in 2 weeks!
+### 📊 Flipkart Product & Review Analysis
+
+🔗 [View Live Dashboard](https://public.tableau.com/app/profile/anshu.diwakar/viz/Flipkart_Analysis_Dashboard/FlipkartProductReviewAnalysisAnshuDiwakar)
+🔗 [GitHub Repository](https://github.com/Anshu4290/Flipkart-Product-Review-Analysis)
+
+A Tableau dashboard built to analyze Flipkart product data and uncover insights related to pricing, customer ratings, and brand performance.
+
+**What I did:**
+
+* Cleaned and structured raw product dataset (~190K+ records)
+* Created price bands to analyze rating trends
+* Built KPI summary (Total Reviews, Avg Price, Avg Rating, Total Products)
+* Designed interactive dashboard with multiple views
+* Analyzed brand performance and customer engagement patterns
+
+**Key Insights:**
+
+* Lower price bands drive higher review volume
+* Higher price bands tend to have better ratings
+* A few brands dominate in terms of product volume
+
+**Tools Used:** Tableau · Excel · Data Cleaning
+**Skills Demonstrated:** Data Analysis · Data Visualization · Business Insights
 
 ---
 
